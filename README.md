@@ -67,6 +67,10 @@ The extracted features are used to train a machine learning classifier that dist
   - Machine learning pipeline (feature selection, scaling, and Logistic Regression).
   - Performance evaluation using ROC AUC, confusion matrix, and classification report.
   - Analysis of feature importance.
+    
+![Gaze Tracking Results](results/plot_2025-01-26%2015-03-47_1.png)
+![Gaze Tracking Results](results/plot_2025-01-26%2015-03-47_2.png).
+
 
 - **Prediction:**  
   - Prediction on new data with visual overlay of results on video.
