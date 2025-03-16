@@ -198,7 +198,7 @@ The extracted features are used to train a machine learning classifier that dist
 ### Desktop Application
 - Launch the integrated PyQt5 application:
   ```bash
-  python app.py
+  python main.py
   ```
 - The GUI allows you to:
   - Upload videos (via file or Google Drive links)
