@@ -212,10 +212,10 @@ The extracted features are used to train a machine learning classifier that dist
 - **Confusion Matrix and Classification Report:**  
   Detailed evaluation metrics (precision, recall, F1-score) are generated during training.
   
+  
 - **Feature Importance:**  
   Analysis identified that gaze entropy, average gaze distance, and fixation/saccade counts significantly impact classification performance.
 
-*(Include your evaluation figures and tables in the `docs/` folder and reference them here if desired.)*
 
 ---
 
